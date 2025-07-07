@@ -24,7 +24,7 @@ export default function AboutPage() {
         {/* Introduction Card */}
         <div className="bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm rounded-2xl shadow-xl p-8 mb-8 border border-gray-200/50 dark:border-gray-700/50">
           <p className="text-xl text-gray-700 dark:text-gray-300 leading-relaxed">
-            I design & develop. I'm enthusiastic about AI and love Software Development, specializing in 
+            I design & develop. I&apos;m enthusiastic about AI and love Software Development, specializing in 
             <span className="font-semibold text-blue-600 dark:text-blue-400"> clean architecture</span>, 
             <span className="font-semibold text-indigo-600 dark:text-indigo-400"> data-driven solutions</span>, and 
             <span className="font-semibold text-purple-600 dark:text-purple-400"> robust backends</span>. 
@@ -83,7 +83,7 @@ export default function AboutPage() {
           <div className="space-y-6">
             <div className="bg-gradient-to-r from-green-50 to-teal-50 dark:from-green-900/20 dark:to-teal-900/20 rounded-lg p-6 border-l-4 border-green-500">
               <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">Trident Academy of Technology (TAT), Bhubaneswar</h3>
-              <p className="text-green-600 dark:text-green-400 font-semibold">Master's in Computer Application</p>
+              <p className="text-green-600 dark:text-green-400 font-semibold">Master&apos;s in Computer Application</p>
               <p className="text-gray-600 dark:text-gray-400">2014 – 2017</p>
             </div>
             <div className="bg-gradient-to-r from-teal-50 to-cyan-50 dark:from-teal-900/20 dark:to-cyan-900/20 rounded-lg p-6 border-l-4 border-teal-500">

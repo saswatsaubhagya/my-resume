@@ -43,7 +43,7 @@ export default function Home() {
 
         {/* Description */}
         <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl leading-relaxed mb-8">
-          I design & develop. I'm enthusiastic about AI and love Software Development, specializing in 
+          I design & develop. I&apos;m enthusiastic about AI and love Software Development, specializing in 
           <span className="font-semibold text-blue-600 dark:text-blue-400"> clean architecture</span>, 
           <span className="font-semibold text-indigo-600 dark:text-indigo-400"> data-driven solutions</span>, and 
           <span className="font-semibold text-purple-600 dark:text-purple-400"> robust backends</span>. 
